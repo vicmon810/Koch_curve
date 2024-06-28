@@ -1,5 +1,6 @@
 ### How to start :
 ```
+git clone 
 cd Snow/
 java kochCurve.java
 ```
