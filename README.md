@@ -1,6 +1,6 @@
 ### How to start :
 ```
-git clone 
+git clone https://github.com/vicmon810/Koch_curve.git
 cd Snow/
 java kochCurve.java
 ```
